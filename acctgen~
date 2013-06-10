@@ -6,7 +6,7 @@
 # Purpose : The purpose of this script is to creates a block of accounts
 # with the initial password of "foobar".
 #
-# Usage : # ~/acctgen aLetter aStartingNumber anEndingNumber
+# Usage : # /home/f3011/acctgen aLetter aStartingNumber anEndingNumber
 #
 # Date created : Mar 7, 2012
 # Date last modified : Mar 21, 2012
